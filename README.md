@@ -1,8 +1,11 @@
 # 500MVP-Weeks Workout
 Sport app, that should do your willpower stronger in 500 mvp weeks workout
--Only 3 types of workout
--Do your training every day
--Don’t miss even one day
+
+Only 3 types of workout
+
+Do your training every day
+
+Don’t miss even one day
 
 [![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_1.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_1.jpg)
 [![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_2.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_2.jpg)
