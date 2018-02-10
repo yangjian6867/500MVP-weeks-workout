@@ -1,10 +1,10 @@
 # 500MVP-Weeks Workout
 The red dog is performed with the poker card (similar to the cage door), which does not calculate the size of the same flower. The card is the largest, and the 2 card is the finest. The play is simple, as long as the third cards are in the middle of the first two cards to win, for example, the first two cards are 5 to 10 points, the winning range will belong to 4 cards, the third cards from the 6 points to 9 points, then win, otherwise you lose.
-[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_1-small.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_1.jpg)
-[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_2-small.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_2.jpg)
-[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_3-small.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_3.jpg)
-[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_4-small.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_4.jpg)
-[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_5-small.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_5.jpg)
+[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_1.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_1.jpg)
+[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_2.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_2.jpg)
+[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_3.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_3.jpg)
+[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_4.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_4.jpg)
+[![](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_5.jpg)](https://github.com/yangjian6867/500MVP-weeks-workout/blob/master/IMG_5.jpg)
 
 Framework
 
